@@ -33,7 +33,7 @@ const Weather = ({ weatherInfo }) => {
 
   return (
     <section className="p-5 flex justify-center items-center flex-col gap-5 mt-16 text-text-light dark:text-white">
-      <div className="bg-[url('./images/rectangle.svg')] dark:bg-[url('./images/rectanglenight.svg')] bg-cover bg-center bg-local grid grid-cols-2 px-4 w-[300px] h-[205px] sm:w-[400px] sm:h-[275px]">
+      <div className="bg-[url('./public/images/rectangle.svg')] dark:bg-[url('./public/images/rectanglenight.svg')] bg-cover bg-center bg-local grid grid-cols-2 px-4 w-[300px] h-[205px] sm:w-[400px] sm:h-[275px]">
         <section className="flex flex-col justify-end w-[150px] sm:w-auto sm:mt-5">
           <h2 className="text-5xl font-light mb-2 sm:text-[4.2rem] sm:mb-5">
             {isCelsius ? (
