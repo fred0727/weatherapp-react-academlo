@@ -1,0 +1,54 @@
+.bg01d {
+  background-image: url("./images/climate/clearsky-day.jpg");
+}
+.bg02d {
+  background-image: url("./images/climate/fewclouds-day.jpg");
+}
+.bg03d {
+  background-image: url("./images/climate/scatteredclouds-day.jpg");
+}
+.bg04d {
+  background-image: url("./images/climate/brokenclouds-day.jpg");
+}
+.bg09d {
+  background-image: url("./images/climate/showerrain-day.jpg");
+}
+.bg10d {
+  background-image: url("./images/climate/rain-day.jpg");
+}
+.bg11d {
+  background-image: url("./images/climate/thunderstorm-day.jpg");
+}
+.bg13d {
+  background-image: url("./images/climate/snow-day.jpg");
+}
+.bg50d {
+  background-image: url("./images/climate/mist-day.jpg");
+}
+.bg01n {
+  background-image: url("./images/climate/clearsky-night.jpg");
+}
+.bg02n {
+  background-image: url("./images/climate/fewclouds-night.jpg");
+}
+.bg03n {
+  background-image: url("./images/climate/scatteredclouds-night.jpg");
+}
+.bg04n {
+  background-image: url("./images/climate/brokenclouds-night.jpg");
+}
+.bg09n {
+  background-image: url("./images/climate/showerrain-night.jpg");
+}
+.bg10n {
+  background-image: url("./images/climate/rain-night.jpg");
+}
+.bg11n {
+  background-image: url("./images/climate/thunderstorm-night.jpg");
+}
+.bg13n {
+  background-image: url("./images/climate/snow-night.jpg");
+}
+.bg50n {
+  background-image: url("./public/images/climate/mist-night.jpg");
+}
