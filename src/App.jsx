@@ -70,7 +70,7 @@ function App() {
       {weatherInfo && (
         <div>
           <header className="grid grid-cols-2 grid-rows-2 pt-5 px-5 gap-4 sm:flex sm:justify-between sm:pt-10 sm:px-10 items-center">
-            <h3 className="text-white sm:text-3xl">Weather app</h3>
+            <h3 className="text-white sm:text-3xl font-bold title--app">Weather App</h3>
             <span className="sm:hidden w-full flex justify-end items-center">
               {isDark ? (
                 <MdToggleOn
