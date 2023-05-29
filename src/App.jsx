@@ -94,7 +94,7 @@ function App() {
               <input
                 id="search"
                 type="text"
-                placeholder="Busca una ciudad"
+                placeholder="Enter a city"
                 className="w-full bg-transparent text-gray-200 placeholder:text-gray-200 outline-none px-3 text-sm"
               />
             </form>
