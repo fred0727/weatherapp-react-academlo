@@ -67,7 +67,7 @@ const Weather = ({ weatherInfo }) => {
             {weatherInfo?.name}, {weatherInfo?.sys.country}
           </h3>
         </section>
-        <section className="font-bold text-xs sm:text-base flex flex-col justify-end items-end h-[40px]">
+        <section className="font-bold text-xs sm:text-base flex flex-col justify-end items-end h-[40px] text-end">
           <span>{weatherInfo?.weather[0].description}</span>
         </section>
       </div>
